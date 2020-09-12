@@ -1,0 +1,20 @@
+NOTE
+- 4 bước computational thinking
+  + Abstraction
+  + Pattern recognition
+  + Decomposition
+  + Algorithm design
+
+- Đánh giá môn học phụ thuộc nhiều vào khả năng làm việc nhóm, các bài tập 
+đều làm theo nhóm
+
+- Khuyến khích tham gia các cuộc thi ACM, ICPC, contest Codeforces, 
+Hackerank, ...
+
+- Mục tiêu chính của môn học là để tìm hiểu về các bước, quy trình để đi từ vấn
+đề đến giải thuật hơn là chi tiết về các thuật toán
+
+THẢO LUẬN
+- Cách làm bài BOT
+- Luyện tập trên Codeforces
+ 
