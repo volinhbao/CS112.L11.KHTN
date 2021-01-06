@@ -1,0 +1,15 @@
+TỔNG KẾT MÔN HỌC
+
+Cốt lõi khi lựa chọn thuật toán:
+- không phải lựa được thuật toán tốt nhất mà lựa chọn được thuật toán phù hợp nhất với yêu cầu
+- đưa ra lựa chọn thích hợp theo yêu cầu của khác hàng
+
+Kỹ năng các thầy mong đợi:
+- computational thinking
+- làm việc nhóm
+- viết báo cáo
+- cách sử dụng github
+
+Thái độ:
+- tại sao không tiếp cận với thái độ làm trong nghiêm túc?
+- 
