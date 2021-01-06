@@ -1,0 +1,13 @@
+Ghi chú buổi học
+* Lưu ý về cách trình bày slide:
+- Vì sao trình bày những phần này?
+---> Vì tất cả những bài tập đều xoay quanh Tích & Góc
+- Tại sao nên biểu diễn bằng số phức?
+---> Vì được built sẵn trong thư viện
+- Tại sao không biểu diễn bằng hình học nhưng bằng ma trận?
+---> Để máy tính có thể hiểu và tính toán được.
+- Slide phải có sự liên kết giữa các phần
+- Phải có phần application:
+ + Chuẩn hóa hình ảnh trong CV: dùng các phép biến đổi hình học
+ + Trong bản đồ: biểu diễn các thực thể trên bản đồ (đường xá, sông,...) khi phóng to, thu nhỏ cũng sử dụng các phép biến đổi hình học
+ + Nâng cao: lưới tam giác Delaunay, Veronoi diagram: định vị, tìm kiếm đối tượng hình học. Ứng dụng trong GIS.
